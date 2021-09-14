@@ -1,2 +1,2 @@
 # Front-endJS_CompleteBuild
-Code is in gp pages branch.
+Code is in gh pages branch.
